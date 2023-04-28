@@ -212,7 +212,7 @@
 
 ## Projects
 
-<a href="[https://github.com/Nneji123/Machine-Learning-Course-Projects](https://github.com/ErikFantomex/FitnessRecommender)">
+<a href="https://github.com/ErikFantomex/FitnessRecommender">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -274,44 +274,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
 
 </a>
-
-	 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
-  <br/>
-
-</details>
-
-<details>
-  <summary><b>⚡ GitHub Contribution Streak</b></summary>
-  <br/>
-
-  <br/>
-
-</details>
-
-
-<br/>
-
-
 
 
 ----
