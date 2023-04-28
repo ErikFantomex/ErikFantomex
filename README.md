@@ -28,7 +28,7 @@
   </p>
 
 
-<p >I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁
+<p >I am a Computer Science student who graduated from the University of Sonora, Mexico. I'm passionate about Web Application development and Software Engineering, and I am always looking for new opportunities to learn and grow as a programmer.
 </p>
 
 
