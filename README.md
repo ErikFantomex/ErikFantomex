@@ -212,19 +212,18 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
+<a href="[https://github.com/Nneji123/Machine-Learning-Course-Projects](https://github.com/ErikFantomex/FitnessRecommender)">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="[[https://github.com/Nneji123/Alien-Shooter](https://github.com/ErikFantomex/MPI_Curso)](https://github.com/ErikFantomex/MPI_Curso)">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
+  <img align="center" src="https://github.com/ErikFantomex/MPI_Curso"/>
 
 </a> 
 
@@ -330,7 +329,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
+
   <br/>
 
 </details>
@@ -339,14 +338,6 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-## What I'm Currently Listening To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
-      alt="example"> 
-</p>
 
 
 ----
@@ -366,7 +357,7 @@
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Machine Learning and Data Science using python
 - 💞️ I’m looking to collaborate on any development project 
-- 📫 How to reach me: ifeanyinneji777@gmail.com
+- 📫 How to reach me: horacio.araiza.gonzalez@gmail.com
 - >
 
 
