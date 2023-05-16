@@ -26,7 +26,7 @@
   </p>
 
 
-<p >I am a Computer Science student who graduated from the University of Sonora, Mexico. I'm passionate about Web Application development and Software Engineering, and I am always looking for new opportunities to learn and grow as a programmer.
+<p >I am a Computer Scientist who graduated from the University of Sonora, Mexico. I'm passionate about Web Application development and Software Engineering, and I am always looking for new opportunities to learn and grow as a programmer.
 </p>
 
 
