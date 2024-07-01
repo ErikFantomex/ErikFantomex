@@ -31,13 +31,7 @@
 Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2024 estuve ayuando a hacer zanja, meter sistema de riego, plantar plantas nativas , recolectar basura, ir a marchas en protesta de obras faranoincas del gobierno actual 
 </p>
 
-<p>Consulta los proyectos que e desarrollado para CDD en GitHub:</p>
-<ul>
-    <li><a href="https://github.com/ErikFantomex/Desierto_altar" target="_blank">Proyecto Desierto Altar</a></li>
-    <li><a href="https://github.com/ErikFantomex/Monitor_Verde" target="_blank">Proyecto Monitor Verde</a></li>
-</ul>
-
-<p>Descubre más sobre nuestros esfuerzos en conservación:</p>
+<p>Consulta los proyectos que e desarrollado para CDD en GitHub y más sobre nuestros esfuerzos en conservación:</p>
 <ul>
     <li>
         <img src="https://example.com/arbol1.jpg" alt="Árbol frondoso" style="width: 100%;">
@@ -59,7 +53,7 @@ La mision que buscamos desde CDD es construir un Sonora resiliente y orgulloso d
 </p>
 
 <p>
-Valores
+#Valores
 Empatía
 Responsabilidad
 Respeto
