@@ -1,4 +1,4 @@
-## Hola , soy  Horacio Araiza Gonzalez un simple apasionado por el cuidado del medio ambiente <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+## Hola , soy  Horacio Araiza Gonzalez un simple apasionado por el cuidado del medio ambiente 🌳. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 
 ## Hi there, I’m  Horacio Araiza Gonzalez<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
@@ -31,17 +31,23 @@
 Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2024 estuve ayuando a hacer zanja, meter sistema de riego, plantar plantas nativas , recolectar basura, ir a marchas en protesta de obras faranoincas del gobierno actual 
 </p>
 
+
 <p>Consulta los proyectos que e desarrollado para CDD en GitHub y más sobre nuestros esfuerzos en conservación:</p>
 <ul>
     <li>
-        <img src="https://example.com/arbol1.jpg" alt="Árbol frondoso" style="width: 100%;">
-        <p>Conservación de árboles nativos.</p>
+        <a href="https://github.com/ErikFantomex/Desierto_altar" target="_blank">
+            <img alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="width: 20px; height: 20px; vertical-align: middle;">
+            🌳Proyecto Desierto Altar🌱
+        </a>
     </li>
     <li>
-        <img src="https://example.com/conservacion.jpg" alt="Conservación ambiental" style="width: 100%;">
-        <p>Proyectos de reforestación y protección del hábitat natural.</p>
+        <a href="https://github.com/ErikFantomex/Monitor_Verde" target="_blank">
+            <img alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="width: 20px; height: 20px; vertical-align: middle;">
+            🌳Proyecto Monitor Verde🌱
+        </a>
     </li>
 </ul>
+
 
 
 <a href="https://www.instagram.com/cddesierto/" target="_blank">
