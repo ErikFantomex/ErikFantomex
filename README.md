@@ -2,7 +2,7 @@
 
 ## Hi there, I’m  Horacio Araiza Gonzalez<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/ErikFantomex"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Science" /></a>
+  <a href="https://github.com/ErikFantomex"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Ambientalista+de+corazon+programador+de+profesion;I'm+a+Data+Scientist;I'm+also+studying+Computer+Science" /></a>
 </p>
 
 <p align ="center">
@@ -36,6 +36,19 @@ Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2
     <li><a href="https://github.com/ErikFantomex/Desierto_altar" target="_blank">Proyecto Desierto Altar</a></li>
     <li><a href="https://github.com/ErikFantomex/Monitor_Verde" target="_blank">Proyecto Monitor Verde</a></li>
 </ul>
+
+<p>Descubre más sobre nuestros esfuerzos en conservación:</p>
+<ul>
+    <li>
+        <img src="https://example.com/arbol1.jpg" alt="Árbol frondoso" style="width: 100%;">
+        <p>Conservación de árboles nativos.</p>
+    </li>
+    <li>
+        <img src="https://example.com/conservacion.jpg" alt="Conservación ambiental" style="width: 100%;">
+        <p>Proyectos de reforestación y protección del hábitat natural.</p>
+    </li>
+</ul>
+
 
 <a href="https://www.instagram.com/cddesierto/" target="_blank">
     <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width: 20px; height: 20px;">
