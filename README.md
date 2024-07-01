@@ -27,8 +27,11 @@
     </a>
   </p>
 
-<p >Soy un miembro activo del comite juvenil de caminantes del desierto una asociacion civil que busca incidir e inspirar a la renaturalización y conservación del Desierto de Sonora fomentando la participación ciudadana en política pública, gestión de proyectos y educación ambiental.
-Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2024 estuve ayuando a hacer zanja, meter sistema de riego, plantar plantas nativas , recolectar basura, ir a marchas en protesta de obras faranoincas del gobierno actual 
+<p>
+
+Soy un miembro activo del comite juvenil de caminantes del desierto una asociacion civil que busca incidir e inspirar a la renaturalización y conservación del Desierto de Sonora fomentando la participación ciudadana en política pública, gestión de proyectos y educación ambiental.
+Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2024 estuve ayuando a hacer zanja, meter sistema de riego, plantar plantas nativas , recolectar basura, ir a marchas en protesta de obras faranoincas del gobierno actual.
+
 </p>
 
 
@@ -79,7 +82,7 @@ La mision que buscamos desde CDD es construir un Sonora resiliente y orgulloso d
 </p>
 
 <p>
-#Valores
+## Valores
 Empatía
 Responsabilidad
 Respeto
