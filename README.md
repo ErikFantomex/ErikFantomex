@@ -40,10 +40,23 @@ Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2
             🌳Proyecto Desierto Altar🌱
         </a>
     </li>
+	<li>
+		        <a href="https://www.canva.com/design/DAGIakwAwKE/qgtUx3p3yYSl7YuAMoPfmA/edit?utm_content=DAGIakwAwKE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+" target="_blank">
+            📝Ver nuestro experimento en Canva
+        </a>
+
+	
+</li>
     <li>
         <a href="https://github.com/ErikFantomex/Monitor_Verde" target="_blank">
             <img alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="width: 20px; height: 20px; vertical-align: middle;">
             🌳Proyecto Monitor Verde🌱
+        </a>
+    </li>
+    <li>
+        <a href="https://www.canva.com/design/DAGJvhXVmOk/SzfCAE5TCCK-IEE93swZbA/edit?utm_content=DAGJvhXVmOk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+            📝Ver nuestro diseño en Canva
         </a>
     </li>
 	    <li>
@@ -52,6 +65,7 @@ Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2
             🌳Algunas notas de prensa🌱
         </a>
     </li>
+
 </ul>
 
 
