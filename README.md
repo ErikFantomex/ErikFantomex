@@ -46,8 +46,13 @@ Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2
             🌳Proyecto Monitor Verde🌱
         </a>
     </li>
+	    <li>
+        <a href="https://github.com/ErikFantomex/Caminantes_del_desierto" target="_blank">
+            <img alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="width: 20px; height: 20px; vertical-align: middle;">
+            🌳Algunas notas de prensa🌱
+        </a>
+    </li>
 </ul>
-
 
 
 <a href="https://www.instagram.com/cddesierto/" target="_blank">
