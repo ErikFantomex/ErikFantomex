@@ -30,6 +30,13 @@
 <p >Soy un miembro activo del comite juvenil de caminantes del desierto una asociacion civil que busca incidir e inspirar a la renaturalización y conservación del Desierto de Sonora fomentando la participación ciudadana en política pública, gestión de proyectos y educación ambiental.
 Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2024 estuve ayuando a hacer zanja, meter sistema de riego, plantar plantas nativas , recolectar basura, ir a marchas en protesta de obras faranoincas del gobierno actual 
 </p>
+
+<p>Consulta los proyectos que e desarrollado para CDD en GitHub:</p>
+<ul>
+    <li><a href="https://github.com/ErikFantomex/Desierto_altar" target="_blank">Proyecto Desierto Altar</a></li>
+    <li><a href="https://github.com/ErikFantomex/Monitor_Verde" target="_blank">Proyecto Monitor Verde</a></li>
+</ul>
+
 <a href="https://www.instagram.com/cddesierto/" target="_blank">
     <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width: 20px; height: 20px;">
 </a>
