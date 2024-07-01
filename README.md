@@ -90,6 +90,26 @@ Honestidad
 Compromiso
 </p>
 
+<h3>## Equipos que Queremos Adquirir</h3>
+<ul>
+    <li>
+        <strong>RS485 Lora 4G 5-Layer Soil Moisture and Temperature and Ec 3-in-1 Sensor</strong><br>
+        Este sensor mide la humedad, temperatura y conductividad eléctrica del suelo en múltiples capas. Ideal para observación dinámica de las condiciones del suelo.
+        <a href="https://china-sentec.en.made-in-china.com/product/otTYzqEKuJkR/China-RS485-Lora-4G-5-Layer-Soil-Moisture-and-Temperature-and-Ec-3-in-1-Sensor.html" target="_blank">Más información</a>
+    </li>
+    <li>
+        <strong>All-in-One Lorawan Soil Moisture Sensor</strong><br>
+        Sensor integrado que mide la humedad del suelo, conductividad, temperatura, NPK y pH, utilizando tecnología Lorawan para una amplia conectividad.
+        <a href="https://mbtechno.en.made-in-china.com/product/wFAGtNjYrkVh/China-All-in-One-Lorawan-Soil-Moisture-Sensor-Moisture-Conductivity-Temperature-NPK-pH.html" target="_blank">Más información</a>
+    </li>
+    <li>
+        <strong>7-in-1 Soil Moisture Sensor Soil Analyzer</strong><br>
+        Análisis del suelo con sensor 7-en-1 que incluye una pantalla portátil para monitoreo en tiempo real de múltiples parámetros agrícolas.
+        <a href="https://china-sentec.en.made-in-china.com/product/CJSpMZelMOhY/China-7-in-1-Soil-Moisture-Sensor-Soil-Anlyzer-with-Portable-Handheld-Display-Terminal-for-Agriculture.html" target="_blank">Más información</a>
+    </li>
+</ul>
+
+
 <p >I am a Computer Scientist who graduated from the University of Sonora, Mexico. I'm passionate about Web Application development and Software Engineering, and I am always looking for new opportunities to learn and grow as a programmer.
 </p>
 
