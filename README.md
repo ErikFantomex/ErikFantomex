@@ -1,3 +1,5 @@
+## Hola , soy  Horacio Araiza Gonzalez un simple apasionado por el cuidado del medio ambiente <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+
 ## Hi there, I’m  Horacio Araiza Gonzalez<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
   <a href="https://github.com/ErikFantomex"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Science" /></a>
@@ -25,10 +27,28 @@
     </a>
   </p>
 
+<p >Soy un miembro activo del comite juvenil de caminantes del desierto una asociacion civil que busca incidir e inspirar a la renaturalización y conservación del Desierto de Sonora fomentando la participación ciudadana en política pública, gestión de proyectos y educación ambiental.
+Mis principales apariciones han sido en el panteon memorial en el periodo 2023-2024 estuve ayuando a hacer zanja, meter sistema de riego, plantar plantas nativas , recolectar basura, ir a marchas en protesta de obras faranoincas del gobierno actual 
+</p>
+<a href="https://www.instagram.com/cddesierto/" target="_blank">
+    <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width: 20px; height: 20px;">
+</a>
+
+<p>
+La mision que buscamos desde CDD es construir un Sonora resiliente y orgulloso de promover sus plantas nativas
+</p>
+
+<p>
+Valores
+Empatía
+Responsabilidad
+Respeto
+Honestidad
+Compromiso
+</p>
 
 <p >I am a Computer Scientist who graduated from the University of Sonora, Mexico. I'm passionate about Web Application development and Software Engineering, and I am always looking for new opportunities to learn and grow as a programmer.
 </p>
-
 
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
