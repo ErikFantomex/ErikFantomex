@@ -90,7 +90,7 @@ Honestidad
 Compromiso
 </p>
 
-<h3>## Equipos que Queremos Adquirir</h3>
+##Equipos que Queremos Adquirir
 <ul>
     <li>
         <strong>RS485 Lora 4G 5-Layer Soil Moisture and Temperature and Ec 3-in-1 Sensor</strong><br>
