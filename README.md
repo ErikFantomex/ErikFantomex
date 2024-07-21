@@ -1,4 +1,4 @@
-## Hola , soy  Horacio Araiza Gonzalez un simple apasionado por el cuidado del medio ambiente 🌳. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+
 
 ## Hi there, I’m  Horacio Araiza Gonzalez<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
