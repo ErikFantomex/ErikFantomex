@@ -6,7 +6,7 @@
 </p>
 
 
-<p >I am a Computer Scientist who graduated from the University of Sonora, Mexico. I'm passionate about Web Application development and Software Engineering, and I am always looking for new opportunities to learn and grow as a programmer.
+<p >I am a Computer Scientist who graduated from the University of Sonora, Mexico. looking forward to new opportunities.
 </p>
 
 
@@ -84,48 +84,6 @@
   </a>
   
 </p>
-
-
-### Data Manipulation Tools
-<p  
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  </a>
-
- </p>
-  
-
-### Machine Learning Tools
-<p
-   <a href="" target="_blank">
-    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
-
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-   </a>
-
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-   </a>
-
-   <a href="https://pytorch.org/" target="_blank">
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=Pytorch&logoColor=white">
-   </a>
-
-
- </p>
 
 ### Backend Tools
 <p
