@@ -5,33 +5,24 @@
   <a href="https://github.com/ErikFantomex"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Scientist" /></a>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/horacio-araiza-gonzalez-3461a51b1/))
 
-# Hello, I'm Rohan! <img src="https://github.com/rohan-bhautoo/rohan-bhautoo/blob/main/thanos.gif" width="45px" />
-
-[![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rohan-bhautoo](https://medium.com/@rohanbhautoo))
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanbhautoo)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11040534/rohan)
-
-> *"Programming isn't about what you know; it's about what you can figure out."*
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=I+am+a+full-stack+programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Utilizes+both+logical+%F0%9F%A7%A0++and+creative+%F0%9F%8E%A8+skills+when+working+on+a+project.+;I+am+based+in+Mauritius+%F0%9F%87%B2%F0%9F%87%BA%F0%9F%8C%B4.">
 </p>
 
 ```javascript
-const rohan = {
+const Horacio = {
   pronouns: "He" || "Him",
-  languages: ["English", "French", "Creole"],
+  languages: ["English", "Spanish"],
   university: {
-    name: "Middlesex University Mauritius",
+    name: " University of Sonora",
     degree: {
-      name: "BSc Computer Science Systems Engineering",
-      grade: "First Class Honours"
+      name: "BSc Computer Science Systems Engineering"
     }
   },
   workExperience: "3 years",
-  currentFocus: "Building 3D games using Unreal Engine 5",
-  funFact: "There are two ways to write error-free programs; only the third one works"
+  currentFocus: "Building web applications",
 };
 ```
 ## Programming Languages 👨‍💻
@@ -92,39 +83,6 @@ const rohan = {
 [![](https://img.shields.io/badge/Arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![](https://img.shields.io/badge/IBM_Watson-006699?style=for-the-badge&logo=ibmwatson&logoColor=white)](https://www.ibm.com/watson)
 
-## Github Trophies 🏆
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=rohan-bhautoo&theme=darkhub&margin-w=15&no-bg=true&no-frame=true" alt="Rohan's GitHub Trophies" />
-  </a>
-</p>
 
-## Github Streaks 🔥
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rohan-bhautoo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="Rohan's GitHub Streaks" />
-  </a>
-</p>
 
-## GitHub Stats &#x1f4c8;
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-bhautoo&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=algolia" alt="Rohan's GitHub Stats" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan-bhautoo&layout=compact&theme=algolia&langs_count=10&hide=css,processing" />
-  </a>
-</p>
-
-----
-<p align="center">
-  Thank you for visiting ❤️
-</p>
-<p align="center">
-  <a href="https://github.com/rohan-bhautoo">
-    <img align="center" src="https://profile-counter.glitch.me/rohan-bhautoo/count.svg"/>
-  </a>
-</p>
