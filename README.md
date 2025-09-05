@@ -7,9 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/horacio-araiza-gonzalez-3461a51b1/))
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=I+am+a+full-stack+programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Utilizes+both+logical+%F0%9F%A7%A0++and+creative+%F0%9F%8E%A8+skills+when+working+on+a+project.+;I+am+based+in+Mauritius+%F0%9F%87%B2%F0%9F%87%BA%F0%9F%8C%B4.">
-</p>
+
 
 ```javascript
 const Horacio = {
