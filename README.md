@@ -82,5 +82,11 @@ const Horacio = {
 [![](https://img.shields.io/badge/IBM_Watson-006699?style=for-the-badge&logo=ibmwatson&logoColor=white)](https://www.ibm.com/watson)
 
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 
 
