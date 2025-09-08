@@ -5,7 +5,6 @@
   <a href="https://github.com/ErikFantomex"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Scientist" /></a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/horacio-araiza-gonzalez-3461a51b1/))
 
 
 
